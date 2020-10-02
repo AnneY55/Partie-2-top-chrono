@@ -1,0 +1,366 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.rectangle1{
+	position: absolute;
+	width: 1200px;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+	background: #FFCC00;
+	 }
+h3{
+	position: absolute;
+	width: 900px;
+	height: 1px;
+	left: 200px;
+	top: 20px;
+	font-family:'Roboto',sans-serif;
+	font-weight: bold;
+	font-size: 70px;
+	line-height: 20px;
+	text-align: center;
+	color: #2B404D;
+
+}
+
+.rectangle2
+{
+position: absolute;
+width: 1200px;
+height: 1800px;
+left: 0px;
+top: 200px;
+
+background: #2B404D;
+} 
+
+ .carre
+{
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 150px;
+	line-height: 200px;
+	text-align: left-center;
+	color: #FFCC00;
+	margin-top : 110px;
+	margin-left: 140px;
+	}
+
+.element1
+ {
+ 	position: absolute;
+	width: 600px;
+	height: 130px;
+	left: 500px;
+	top: 150px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 110px;
+	line-height: 80px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+.element2
+ {
+ 	position: absolute;
+	width: 600px;
+	height: 130px;
+	left: 500px;
+	top: 460px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 100px;
+	line-height: 80px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+.element3
+ {
+ 	position: absolute;
+	width: 600px;
+	height: 130px;
+	left: 500px;
+	top: 760px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 100px;
+	line-height: 80px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+.element4
+ {
+ 	position: absolute;
+	width: 600px;
+	height: 130px;
+	left: 500px;
+	top: 1098px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 100px;
+	line-height: 80px;
+	text-align: center;
+	color: #2B404D;
+}
+
+.element5
+ {
+ 	position: absolute;
+	width: 600px;
+	height: 130px;
+	left: 500px;
+	top: 1400px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 100px;
+	line-height: 80px;
+	text-align: center;
+	color: #2B404D;
+}
+.rectangle3
+{
+	position: absolute;
+	bottom: 0;
+	width: 1200px;
+	height: 200px;
+	left: 0px;
+	top: 1920px;
+
+	background: #FFCC00;
+	}
+ img
+{
+ 	position : absolute;
+ 	bottom : 50px;
+ 	left :30px;
+ 	width: 120px;
+ 	height: 120px; 
+ 	line-height: 100px;
+ 
+ 	}
+
+	a
+	{
+	
+	width: 400px;
+	height: 50px;
+	font-family:'Roboto',sans-serif;
+	font-weight: bold;
+	font-size: 55px;
+	line-height: 100px;
+	text-align: center;
+	text-decoration-line: underline;
+	margin-left: 520px;
+	color: #2B404D;
+	
+	}
+
+@media screen and (min-width: 1200px) 
+{
+          
+    .rectangle1{
+	width: 1600px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	background: #FFCC00;
+	 }
+h3{
+	width: auto;
+	height: auto;
+	left: 600px;
+	top: 0px;
+	font-family:'Roboto',sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 1px;
+	text-align: center;
+	color: #2B404D;
+
+}
+
+.rectangle2
+{
+
+width: 1600px;
+height: 500px;
+left: 0px;
+top: 50px;
+
+background: #2B404D;
+} 
+
+ .carre
+{
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 60px;
+	line-height: 20px;
+	text-align: left-center;
+	color: #FFCC00;
+	margin-top : 60px;
+	margin-left: 400px;
+	}
+
+.element1
+ {
+ 	width: 400px;
+	height: 50px;
+	left: 700px;
+	top: 40px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 40px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+.element2
+ {
+ 	
+	width: 400px;
+	height: 50px;
+	left: 700px;
+	top: 120px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 40px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+.element3
+ {
+ 	
+	width: 400px;
+	height: 50px;
+	left: 700px;
+	top: 200px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 40px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+.element4
+ {
+ 	width: 400px;
+	height: 50px;
+	left: 700px;
+	top: 280px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 40px;
+	text-align: center;
+	color: #2B404D;
+}
+
+.element5
+ {
+ 	width: 400px;
+	height: 50px;
+	left: 700px;
+	top: 360px;
+	background: #FFCC00;
+	font-family:'Roboto',sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 40px;
+	text-align: center;
+	color: #2B404D;
+}
+.rectangle3
+{
+	width: 1600px;
+	height: 55px;
+	left: 0px;
+	top: 550px;
+	bottom: 0;
+		background: #FFCC00;
+	}
+ img
+{
+ 	 bottom : 10px;
+ 	left :1100px;
+ 	width: 40px;
+ 	height: 40px; 
+ 	line-height: 50px;
+ 
+ 	}
+
+	a
+	{
+	
+	width: 400px;
+	height: 50px;
+	font-family:'Roboto',sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 50px;
+	text-align: center;
+	text-decoration-line: underline;
+	margin-left: 1200px;
+	color: #2B404D;
+	
+	}
+
+}
+}
+
+	/*
+
+/*</style>
+</head>
+
+<body>
+<div>
+Cette phrase est présentée en fonction du style défini dans l'en-tête 
+</div>
+<div>
+Cette phrase aussi, et pourtant le style n'a été défini qu'une fois !
+</div>
+</body>
+
+body {
+	position: relative;
+width: 768px;
+height: 1024px;
+
+background: #FFFFFF;
+
+X: 3190px
+Y: -1493px
+W: 768px
+H: 1024px
+Fill: Solid
+#FFFFFF
+}*/
