@@ -13,22 +13,21 @@ width : 100%;
 .rectangle1{
 	position: absolute;
 	width: 150%;
-	height: 10%;
+	height: 20%;
 	left: 0px;
 	top: 0px;
 	background: #FFCC00;
 	 }
 h3{
 	position: absolute;
-	width: 200px;
-	height: 0px;
-	left: 100px;
+	width: 100%;
+	height: 50%;
+	left: 20px;
 	top: 0px;
 	font-family:'Roboto',sans-serif;
 	font-weight: bold;
 	font-size: 30px;
 	line-height: 20px;
-	text-align: center;
 	color: #2B404D;
 
 }
@@ -49,27 +48,27 @@ background: #2B404D;
 	font-family:'Roboto',sans-serif;
 	font-style: normal;
 	font-weight: 900;
-	font-size: 50px;
+	font-size: 30px;
 	line-height: 10px;
-	text-align: left-center;
+	
 	color: #FFCC00;
-	margin-top : 110px;
+	margin-top : 50px;
 	margin-left: 50px;
 	}
 
 .element1
  {
  	position: absolute;
-	width: 250px;
-	height: 50px;
-	left: 130px;
-	top: 90px;
+	width: 150px;
+	height: 30px;
+	left: 90px;
+	top: 35px;
 	background: #FFCC00;
 	font-family:'Roboto',sans-serif;
 	font-style: normal;
 	font-weight: 900;
-	font-size: 50px;
-	line-height: 40px;
+	font-size: 25px;
+	line-height: 30px;
 	text-align: center;
 	color: #2B404D;
 }	
@@ -77,16 +76,16 @@ background: #2B404D;
 .element2
  {
  	position: absolute;
-	width: 250px;
-	height: 50px;
-	left: 130px;
-	top: 220px;
+	width: 150px;
+	height: 30px;
+	left: 90px;
+	top: 100px;
 	background: #FFCC00;
 	font-family:'Roboto',sans-serif;
 	font-style: normal;
 	font-weight: 900;
-	font-size: 50px;
-	line-height: 40px;
+	font-size: 25px;
+	line-height: 30px;
 	text-align: center;
 	color: #2B404D;
 }	
@@ -94,16 +93,16 @@ background: #2B404D;
 .element3
  {
  	position: absolute;
-	width: 250px;
-	height: 50px;
-	left: 130px;
-	top: 330px;
+	width: 150px;
+	height: 30px;
+	left: 90px;
+	top: 160px;
 	background: #FFCC00;
 	font-family:'Roboto',sans-serif;
 	font-style: normal;
 	font-weight: 900;
-	font-size: 50px;
-	line-height: 40px;
+	font-size: 25px;
+	line-height: 30px;
 	text-align: center;
 	color: #2B404D;
 }	
@@ -111,16 +110,16 @@ background: #2B404D;
 .element4
  {
  	position: absolute;
-	width: 250px;
-	height: 50px;
-	left: 130px;
-	top: 450px;
+	width: 150px;
+	height: 30px;
+	left: 90px;
+	top: 220px;
 	background: #FFCC00;
 	font-family:'Roboto',sans-serif;
 	font-style: normal;
 	font-weight: 900;
-	font-size: 50px;
-	line-height: 40px;
+	font-size: 25px;
+	line-height: 30px;
 	text-align: center;
 	color: #2B404D;
 }
@@ -128,16 +127,16 @@ background: #2B404D;
 .element5
  {
  	position: absolute;
-	width: 250px;
-	height: 50px;
-	left: 130px;
-	top: 570px;
+	width: 150px;
+	height: 30px;
+	left: 90px;
+	top: 280px;
 	background: #FFCC00;
 	font-family:'Roboto',sans-serif;
 	font-style: normal;
 	font-weight: 900;
-	font-size: 50px;
-	line-height: 40px;
+	font-size: 25px;
+	line-height: 30px;
 	text-align: center;
 	color: #2B404D;
 }
@@ -148,7 +147,7 @@ background: #2B404D;
 	width: 150%;
 	height: 10%;
 	left: 0px;
-	top: 870px;
+	top: 500px;
 
 	background: #FFCC00;
 	}
@@ -184,8 +183,8 @@ background: #2B404D;
 {
           
     .rectangle1{
-	width: 1600px;
-	height: 50px;
+	width: 100%;
+	height:20%;
 	left: 0px;
 	top: 0px;
 	background: #FFCC00;
@@ -207,8 +206,8 @@ h3{
 .rectangle2
 {
 
-width: 1600px;
-height: 500px;
+width: 150%;
+height: 100%;
 left: 0px;
 top: 50px;
 
@@ -350,8 +349,8 @@ background: #2B404D;
 
 .rectangle1{
 	
-	width: 1600px;
-	height: 120px;
+	width: 100%;
+	height: 20%;
 	left: 0px;
 	top: 0px;
 	background: #FFCC00;
@@ -374,8 +373,8 @@ h3{
 .rectangle2
 {
 
-width: 1600px;
-height: 2220px;
+width: auto;
+height: auto;
 left: 0px;
 top: 120px;
 
@@ -402,8 +401,8 @@ background: #2B404D;
 	 .rectangle3
 {
 	
-	width: 1600px;
-	height: 120px;
+	width: auto;
+	height: auto;
 	left: 0px;
 	top: 2340px;
 	bottom: 0;
